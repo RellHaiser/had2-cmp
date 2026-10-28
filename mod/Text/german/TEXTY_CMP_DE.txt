@@ -1,0 +1,12 @@
+; ***** LOADING SCREENS *****
+; BURMA2 KINGSLAYER
+17901	"Wir befinden uns nördlich des japanischen Bunkerkomplexes. Unsere Aufgabe ist es den Bunker zu erobern und zu zerstören, anschließend werden wir uns unseren Weg bergab freikämpfen müssen und jeglichen feindlichen Widerstand unterdrücken."
+; BURMA1 KEYGUARD
+17902	"Um unsere Aufgaben zu erfüllen, sollten wir zunächst die verschiedenen Schlüssel zu den Bunkertüren finden. Die vermutlichen Positionen sind auf der Karte markiert!"
+; LIBYA3 JAILBREAK
+17903	"Wir wurden von den lokalen deutschen Truppen gefangen genommen. Glücklicherweise lies uns ein britischer Spion mitteilen, er würde uns in einem unbeobachteten Moment die Zellentür öffnen. Er wird uns nicht weiter unterstützen um seine Tarnung nicht zu gefährden. Wir müssen uns unseren Weg zu einem Kontrollpunkt südwestlich freikämpfen und dort einen Funkspruch abgeben dass wir abgeholt werden. Hoffentlich schaffen wir es lebend hier heraus.."
+
+; ***** OBJECTIVES *****
+21004	"Begeben Sie sich zum Waffenlager."
+21005	"Verteidigen Sie das Gebiet rund um den Kontrollpunkt."
+21006	"Benutzen Sie das Funkgerät am Kontrollpunkt um sie abzuholen."
