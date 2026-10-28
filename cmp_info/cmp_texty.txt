@@ -1,9 +1,9 @@
 Edited Text\[language]\TEXTY_DD.txt contains following new strings
 
 english, EnglishUS
-17901	"Our position is north of a japanese bunker complex. First we have to capture and destroy the bunker, then fight our way down the hill and elimiate any resistance."
+17901	"Our position is north of a Japanese bunker complex. First we have to capture and destroy the bunker, then fight our way down the hill and eliminate any resistance."
 17902	"To fulfill the objectives you need to find keys first to unlock the bunker doors. The locations of the keys are marked on the map."
-17903	"We got captured by the local german forces. Fortunately a british spy let us know to unlock the prison door in a unobserved moment. We cannot blow his cover therefore he can't help us any further. We have to fight our way to the control post south-west of our position and radio for pickup. Hopefully we make it out of here alive.."
+17903	"We have been captured by the local German forces. Fortunately a British spy let us know to unlock the prison door in an unobserved moment. We cannot blow his cover therefore he can't help us any further. We have to fight our way to the control post south-west of our position and radio for pickup. Hopefully we make it out of here alive.."
 21004	"Make your way to the weapon cache."
 21005	"Defend the area around the checkpoint."
 21006	"Use the radio at the checkpoint to call for pickup."
