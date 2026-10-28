@@ -1,3 +1,4 @@
+<MAP_LIST>
 <GAMESTYLE  type="cooperative">
 
 //////////////////////////////BREST//////////////////////////////
@@ -3409,7 +3410,7 @@
 <ITEM  item_id="2"  item_num="1"  ammo_num="10"/>    
 <ITEM  item_id="6"  item_num="1"  ammo_num="5"/> 
 <ITEM  item_id="7"  item_num="1"  ammo_num="10"/>  
-<ITEM  item_id="9"  item_num="1"       
+<ITEM  item_id="9"  item_num="1"/>     
 <ITEM  item_id="10"  item_num="1"  ammo_num="10"/>  
 <ITEM  item_id="17"  item_num="1"  ammo_num="5"/>   
 <ITEM  item_id="20"  item_num="1"  ammo_num="10"/>  
@@ -6900,3 +6901,4 @@
 </MAP>
 
 </GAMESTYLE>
+</MAP_LIST>
